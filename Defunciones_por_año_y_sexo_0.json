@@ -1,0 +1,296 @@
+[ {
+  "AÑO" : 1997,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 272,
+  "PORCENTAJE_POR_AÑO" : 57.14
+}, {
+  "AÑO" : 1997,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 204,
+  "PORCENTAJE_POR_AÑO" : 42.86
+}, {
+  "AÑO" : 1998,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 294,
+  "PORCENTAJE_POR_AÑO" : 57.31
+}, {
+  "AÑO" : 1998,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 219,
+  "PORCENTAJE_POR_AÑO" : 42.69
+}, {
+  "AÑO" : 1999,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 236,
+  "PORCENTAJE_POR_AÑO" : 60.36
+}, {
+  "AÑO" : 1999,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 155,
+  "PORCENTAJE_POR_AÑO" : 39.64
+}, {
+  "AÑO" : 2000,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 208,
+  "PORCENTAJE_POR_AÑO" : 54.17
+}, {
+  "AÑO" : 2000,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 176,
+  "PORCENTAJE_POR_AÑO" : 45.83
+}, {
+  "AÑO" : 2001,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 198,
+  "PORCENTAJE_POR_AÑO" : 55.46
+}, {
+  "AÑO" : 2001,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 159,
+  "PORCENTAJE_POR_AÑO" : 44.54
+}, {
+  "AÑO" : 2002,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 209,
+  "PORCENTAJE_POR_AÑO" : 61.29
+}, {
+  "AÑO" : 2002,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 132,
+  "PORCENTAJE_POR_AÑO" : 38.71
+}, {
+  "AÑO" : 2003,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 189,
+  "PORCENTAJE_POR_AÑO" : 57.98
+}, {
+  "AÑO" : 2003,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 137,
+  "PORCENTAJE_POR_AÑO" : 42.02
+}, {
+  "AÑO" : 2004,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 188,
+  "PORCENTAJE_POR_AÑO" : 55.79
+}, {
+  "AÑO" : 2004,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 149,
+  "PORCENTAJE_POR_AÑO" : 44.21
+}, {
+  "AÑO" : 2005,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 168,
+  "PORCENTAJE_POR_AÑO" : 55.45
+}, {
+  "AÑO" : 2005,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 135,
+  "PORCENTAJE_POR_AÑO" : 44.55
+}, {
+  "AÑO" : 2006,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 169,
+  "PORCENTAJE_POR_AÑO" : 57.48
+}, {
+  "AÑO" : 2006,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 125,
+  "PORCENTAJE_POR_AÑO" : 42.52
+}, {
+  "AÑO" : 2007,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 192,
+  "PORCENTAJE_POR_AÑO" : 62.54
+}, {
+  "AÑO" : 2007,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 115,
+  "PORCENTAJE_POR_AÑO" : 37.46
+}, {
+  "AÑO" : 2008,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 158,
+  "PORCENTAJE_POR_AÑO" : 55.24
+}, {
+  "AÑO" : 2008,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 128,
+  "PORCENTAJE_POR_AÑO" : 44.76
+}, {
+  "AÑO" : 2009,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 196,
+  "PORCENTAJE_POR_AÑO" : 59.39
+}, {
+  "AÑO" : 2009,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 134,
+  "PORCENTAJE_POR_AÑO" : 40.61
+}, {
+  "AÑO" : 2010,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 166,
+  "PORCENTAJE_POR_AÑO" : 59.93
+}, {
+  "AÑO" : 2010,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 111,
+  "PORCENTAJE_POR_AÑO" : 40.07
+}, {
+  "AÑO" : 2011,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 171,
+  "PORCENTAJE_POR_AÑO" : 60.85
+}, {
+  "AÑO" : 2011,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 110,
+  "PORCENTAJE_POR_AÑO" : 39.15
+}, {
+  "AÑO" : 2012,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 147,
+  "PORCENTAJE_POR_AÑO" : 64.19
+}, {
+  "AÑO" : 2012,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 82,
+  "PORCENTAJE_POR_AÑO" : 35.81
+}, {
+  "AÑO" : 2013,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 155,
+  "PORCENTAJE_POR_AÑO" : 60.31
+}, {
+  "AÑO" : 2013,
+  "SEXO" : "Indeterminado",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 0.39
+}, {
+  "AÑO" : 2013,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 101,
+  "PORCENTAJE_POR_AÑO" : 39.3
+}, {
+  "AÑO" : 2014,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 151,
+  "PORCENTAJE_POR_AÑO" : 61.63
+}, {
+  "AÑO" : 2014,
+  "SEXO" : "Indeterminado",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 0.82
+}, {
+  "AÑO" : 2014,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 92,
+  "PORCENTAJE_POR_AÑO" : 37.55
+}, {
+  "AÑO" : 2015,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 133,
+  "PORCENTAJE_POR_AÑO" : 54.73
+}, {
+  "AÑO" : 2015,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 110,
+  "PORCENTAJE_POR_AÑO" : 45.27
+}, {
+  "AÑO" : 2016,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 120,
+  "PORCENTAJE_POR_AÑO" : 58.25
+}, {
+  "AÑO" : 2016,
+  "SEXO" : "Indeterminado",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 0.49
+}, {
+  "AÑO" : 2016,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 85,
+  "PORCENTAJE_POR_AÑO" : 41.26
+}, {
+  "AÑO" : 2017,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 133,
+  "PORCENTAJE_POR_AÑO" : 58.08
+}, {
+  "AÑO" : 2017,
+  "SEXO" : "Indeterminado",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 0.87
+}, {
+  "AÑO" : 2017,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 94,
+  "PORCENTAJE_POR_AÑO" : 41.05
+}, {
+  "AÑO" : 2018,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 123,
+  "PORCENTAJE_POR_AÑO" : 58.57
+}, {
+  "AÑO" : 2018,
+  "SEXO" : "Indeterminado",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 0.48
+}, {
+  "AÑO" : 2018,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 86,
+  "PORCENTAJE_POR_AÑO" : 40.95
+}, {
+  "AÑO" : 2019,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 124,
+  "PORCENTAJE_POR_AÑO" : 59.62
+}, {
+  "AÑO" : 2019,
+  "SEXO" : "Indeterminado",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 1.92
+}, {
+  "AÑO" : 2019,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 80,
+  "PORCENTAJE_POR_AÑO" : 38.46
+}, {
+  "AÑO" : 2020,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 98,
+  "PORCENTAJE_POR_AÑO" : 59.76
+}, {
+  "AÑO" : 2020,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 66,
+  "PORCENTAJE_POR_AÑO" : 40.24
+}, {
+  "AÑO" : 2021,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 97,
+  "PORCENTAJE_POR_AÑO" : 61.39
+}, {
+  "AÑO" : 2021,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 61,
+  "PORCENTAJE_POR_AÑO" : 38.61
+}, {
+  "AÑO" : 2022,
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 133,
+  "PORCENTAJE_POR_AÑO" : 61.29
+}, {
+  "AÑO" : 2022,
+  "SEXO" : "Indeterminado",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 0.46
+}, {
+  "AÑO" : 2022,
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 83,
+  "PORCENTAJE_POR_AÑO" : 38.25
+} ]

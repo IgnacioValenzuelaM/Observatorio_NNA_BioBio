@@ -1,0 +1,36 @@
+[ {
+  "SEXO" : "Mujer",
+  "CICLO_DE_VIDA" : "Primera Infancia",
+  "NÚMERO DE DEFUNCIONES" : 2408,
+  "PORCENTAJE" : 31.81
+}, {
+  "SEXO" : "Mujer",
+  "CICLO_DE_VIDA" : "Infancia",
+  "NÚMERO DE DEFUNCIONES" : 315,
+  "PORCENTAJE" : 4.16
+}, {
+  "SEXO" : "Mujer",
+  "CICLO_DE_VIDA" : "Adolescencia",
+  "NÚMERO DE DEFUNCIONES" : 406,
+  "PORCENTAJE" : 5.36
+}, {
+  "SEXO" : "Indeterminado",
+  "CICLO_DE_VIDA" : "Primera Infancia",
+  "NÚMERO DE DEFUNCIONES" : 12,
+  "PORCENTAJE" : 0.16
+}, {
+  "SEXO" : "Hombre",
+  "CICLO_DE_VIDA" : "Primera Infancia",
+  "NÚMERO DE DEFUNCIONES" : 3143,
+  "PORCENTAJE" : 41.52
+}, {
+  "SEXO" : "Hombre",
+  "CICLO_DE_VIDA" : "Infancia",
+  "NÚMERO DE DEFUNCIONES" : 461,
+  "PORCENTAJE" : 6.09
+}, {
+  "SEXO" : "Hombre",
+  "CICLO_DE_VIDA" : "Adolescencia",
+  "NÚMERO DE DEFUNCIONES" : 824,
+  "PORCENTAJE" : 10.89
+} ]

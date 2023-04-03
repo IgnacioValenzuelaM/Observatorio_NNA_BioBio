@@ -1,0 +1,13 @@
+[ {
+  "SEXO" : "Hombre",
+  "NÚMERO_DE_DEFUNCIONES" : 4428,
+  "PORCENTAJE" : 58.5
+}, {
+  "SEXO" : "Mujer",
+  "NÚMERO_DE_DEFUNCIONES" : 3129,
+  "PORCENTAJE" : 41.34
+}, {
+  "SEXO" : "Indeterminado",
+  "NÚMERO_DE_DEFUNCIONES" : 12,
+  "PORCENTAJE" : 0.16
+} ]
