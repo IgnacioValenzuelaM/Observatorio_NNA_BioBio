@@ -1,0 +1,221 @@
+[ {
+  "Se_siente_discriminado_por" : "Por ser hombre o mujer",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.7
+}, {
+  "Se_siente_discriminado_por" : "Por ser hombre o mujer",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.2
+}, {
+  "Se_siente_discriminado_por" : "Por ser hombre o mujer",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.3
+}, {
+  "Se_siente_discriminado_por" : "Por ser hombre o mujer",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Si",
+  "Porcentaje" : 7.8
+}, {
+  "Se_siente_discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.7
+}, {
+  "Se_siente_discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.3
+}, {
+  "Se_siente_discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.3
+}, {
+  "Se_siente_discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Si",
+  "Porcentaje" : 5.7
+}, {
+  "Se_siente_discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.6
+}, {
+  "Se_siente_discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 82.8
+}, {
+  "Se_siente_discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Si",
+  "Porcentaje" : 5.4
+}, {
+  "Se_siente_discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Si",
+  "Porcentaje" : 17.2
+}, {
+  "Se_siente_discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.9
+}, {
+  "Se_siente_discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.5
+}, {
+  "Se_siente_discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.1
+}, {
+  "Se_siente_discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.5
+}, {
+  "Se_siente_discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.2
+}, {
+  "Se_siente_discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.0
+}, {
+  "Se_siente_discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.8
+}, {
+  "Se_siente_discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Si",
+  "Porcentaje" : 9.0
+}, {
+  "Se_siente_discriminado_por" : "Por tu color de piel u origen",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.6
+}, {
+  "Se_siente_discriminado_por" : "Por tu color de piel u origen",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.3
+}, {
+  "Se_siente_discriminado_por" : "Por tu color de piel u origen",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.4
+}, {
+  "Se_siente_discriminado_por" : "Por tu color de piel u origen",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.7
+}, {
+  "Se_siente_discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 84.7
+}, {
+  "Se_siente_discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 60.6
+}, {
+  "Se_siente_discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Si",
+  "Porcentaje" : 15.3
+}, {
+  "Se_siente_discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Si",
+  "Porcentaje" : 39.4
+}, {
+  "Se_siente_discriminado_por" : "Por tu situación económica",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.5
+}, {
+  "Se_siente_discriminado_por" : "Por tu situación económica",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.8
+}, {
+  "Se_siente_discriminado_por" : "Por tu situación económica",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.5
+}, {
+  "Se_siente_discriminado_por" : "Por tu situación económica",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Si",
+  "Porcentaje" : 6.2
+}, {
+  "Se_siente_discriminado_por" : "Por el lugar en el que vives",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.6
+}, {
+  "Se_siente_discriminado_por" : "Por el lugar en el que vives",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.7
+}, {
+  "Se_siente_discriminado_por" : "Por el lugar en el que vives",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Si",
+  "Porcentaje" : 7.4
+}, {
+  "Se_siente_discriminado_por" : "Por el lugar en el que vives",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.3
+}, {
+  "Se_siente_discriminado_por" : "Por tu religión",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.7
+}, {
+  "Se_siente_discriminado_por" : "Por tu religión",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.6
+}, {
+  "Se_siente_discriminado_por" : "Por tu religión",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.3
+}, {
+  "Se_siente_discriminado_por" : "Por tu religión",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.4
+}, {
+  "Se_siente_discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.1
+}, {
+  "Se_siente_discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.8
+}, {
+  "Se_siente_discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.9
+}, {
+  "Se_siente_discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Si",
+  "Porcentaje" : 6.2
+} ]
