@@ -1,0 +1,876 @@
+[ {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.7
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.4
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 5.3
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 15.7
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.4
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 12.1
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 15.4
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 15.5
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 11.3
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 83.5
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 78.6
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 68.7
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 82.3
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 100.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.5
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.7
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 2.9
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 1.8
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 15.4
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 15.9
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 6.6
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 15.3
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 10.6
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 7.2
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 19.6
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 88.3
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 82.8
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 74.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 76.9
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 80.4
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.3
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.1
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.3
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 8.1
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 10.2
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 12.5
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 12.8
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 15.8
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 24.7
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 32.9
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 21.9
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 16.1
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 74.8
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 64.9
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 54.6
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 65.3
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 83.9
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.7
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 8.5
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.6
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.2
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 3.8
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.6
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.5
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.7
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.4
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 23.6
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 18.3
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 20.3
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 21.4
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 4.2
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 69.2
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 76.3
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 71.2
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 72.2
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 87.3
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 87.0
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 85.3
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 75.6
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 84.9
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 95.6
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 6.5
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 10.1
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 12.8
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 7.1
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 4.4
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 3.5
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 1.8
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 10.5
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 8.0
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 1.7
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 0.3
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 1.3
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 2.7
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 0.8
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.7
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 7.3
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.3
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.6
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 11.8
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 12.8
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 10.3
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 19.1
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 0.8
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 23.4
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 31.7
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 41.6
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 16.3
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 38.8
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 64.5
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 54.2
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 48.1
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 64.7
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 53.1
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 58.6
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 65.3
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 49.0
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 58.4
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 77.5
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 10.4
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 8.2
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 23.1
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 8.4
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.8
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.0
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 9.6
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 8.8
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 8.6
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 11.7
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 8.8
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 3.6
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 10.7
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 5.0
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 13.3
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 8.1
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 15.6
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 22.5
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 7.0
+} ]

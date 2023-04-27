@@ -1,0 +1,351 @@
+[ {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.2
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.3
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.3
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.6
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 1.7
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 17.8
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 19.5
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 77.1
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 78.6
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.5
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.2
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.4
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.1
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.2
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 20.3
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 30.8
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 72.6
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 64.9
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.5
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.4
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 7.1
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 13.7
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 26.4
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 27.5
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 64.6
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 58.8
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.5
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.3
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.2
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 8.8
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 21.9
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 30.6
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 70.1
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 60.7
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 80.1
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 81.2
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 10.8
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 5.4
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.2
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 2.8
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 2.4
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 5.2
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 2.6
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 5.5
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.8
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 3.3
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.5
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.1
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 10.2
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.7
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 31.9
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 35.6
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 55.7
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 56.3
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 59.2
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 47.2
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 11.6
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 12.8
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 8.9
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 14.7
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 8.1
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 8.6
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 12.2
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 16.6
+} ]

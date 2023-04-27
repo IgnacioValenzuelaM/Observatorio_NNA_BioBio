@@ -1,0 +1,526 @@
+[ {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.1
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.4
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.2
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.4
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 5.7
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 3.5
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.3
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 17.3
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 17.9
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 20.3
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 76.7
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 77.8
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 75.4
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.1
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.5
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 3.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.4
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.3
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.9
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 7.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 5.1
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 7.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 19.7
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 21.2
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 22.1
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 72.8
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 72.9
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 67.1
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.2
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.7
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.1
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.6
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.3
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 7.1
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 7.6
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.6
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 28.4
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 24.9
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 26.3
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 63.1
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 65.1
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 66.8
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.8
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.3
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.6
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.1
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.1
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.7
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 5.8
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 7.4
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 21.8
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 20.7
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 33.5
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 69.1
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 72.1
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 59.0
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 80.3
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 81.2
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 72.2
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 10.4
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 9.6
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 18.3
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 3.7
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.3
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 5.2
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 2.3
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 2.7
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 2.6
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 3.4
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 2.3
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 1.7
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.9
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.8
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.7
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.4
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.3
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 2.0
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 9.2
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 10.2
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 13.2
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 31.9
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 30.9
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 39.2
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 56.6
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 56.7
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 44.9
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 55.6
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 61.4
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 59.0
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 10.6
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 11.6
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 16.8
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 9.5
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 8.7
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 10.3
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 9.9
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 6.7
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 7.8
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 14.4
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 11.7
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 6.1
+} ]

@@ -1,0 +1,701 @@
+[ {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 2.2
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.2
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.3
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.3
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.2
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.4
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 0.8
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.2
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.5
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 3.8
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 21.9
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 23.6
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 16.5
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 17.4
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 75.1
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 69.8
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 78.6
+}, {
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 78.1
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.4
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.5
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.6
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.6
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.3
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 18.9
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 7.8
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 5.7
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.9
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 13.9
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 19.7
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 20.5
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 21.6
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 67.3
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 72.1
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 72.7
+}, {
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 72.5
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.2
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.5
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.5
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 2.9
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 3.7
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.6
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.1
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 11.0
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 7.6
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.8
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 7.8
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 20.3
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 28.3
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 29.6
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 21.2
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 65.9
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 60.3
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 62.5
+}, {
+  "Tus_Profesores" : "Confían en sus capacidades",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 69.4
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.5
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.3
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.6
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.4
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.8
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.1
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.4
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.0
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 3.1
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 7.1
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.6
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 5.3
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 26.2
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 23.5
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 20.7
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 24.2
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 68.3
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 68.0
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 70.7
+}, {
+  "Tus_Profesores" : "Permiten que expresen sus opiniones",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 69.1
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 69.3
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 73.3
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 82.0
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 80.6
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 12.4
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 13.4
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 9.2
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 11.6
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 5.0
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.1
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 3.9
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 3.6
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 0.7
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 3.6
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 2.4
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 2.2
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 12.5
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 3.6
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 2.4
+}, {
+  "Tus_Profesores" : "Les ha insultado o humillado",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 2.0
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 1.9
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.6
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 1.0
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.7
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.5
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.5
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.5
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 1.4
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 13.9
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 8.4
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 10.3
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 10.0
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 27.2
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 26.8
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 33.1
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 32.5
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 56.6
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 62.7
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 54.1
+}, {
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 55.4
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 56.5
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 54.3
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 58.7
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 61.2
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 10.0
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 9.4
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 11.3
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 13.4
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 9.1
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 10.5
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 8.4
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 9.6
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 3.0
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 12.0
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 7.4
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 7.6
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "No les alcanza el dinero, tienen grandes problemas",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 21.4
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "No les alcanza, tienen dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 13.9
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "Les alcanza justo, sin dificultades",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 14.2
+}, {
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres",
+  "Percepción_Económica" : "Les alcanza bien, pueden ahorrar",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 8.3
+} ]

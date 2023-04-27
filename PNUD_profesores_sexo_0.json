@@ -1,0 +1,351 @@
+[ {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0,
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0,
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0,
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.2,
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.1,
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 7.9,
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 12.1,
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 9.2,
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 81.7,
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 82.7,
+  "Tus_Profesores" : "Les tratan con respeto y amabilidad"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.1,
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0,
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.0,
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.5,
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 12.1,
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.3,
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 9.6,
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 14.6,
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 78.1,
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 80.6,
+  "Tus_Profesores" : "Les motivan a seguir aprendiendo"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.1,
+  "Tus_Profesores" : "Confían en sus capacidades"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0,
+  "Tus_Profesores" : "Confían en sus capacidades"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.3,
+  "Tus_Profesores" : "Confían en sus capacidades"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.1,
+  "Tus_Profesores" : "Confían en sus capacidades"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 7.7,
+  "Tus_Profesores" : "Confían en sus capacidades"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 9.7,
+  "Tus_Profesores" : "Confían en sus capacidades"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 31.9,
+  "Tus_Profesores" : "Confían en sus capacidades"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 14.7,
+  "Tus_Profesores" : "Confían en sus capacidades"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 60.0,
+  "Tus_Profesores" : "Confían en sus capacidades"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 75.5,
+  "Tus_Profesores" : "Confían en sus capacidades"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.0,
+  "Tus_Profesores" : "Permiten que expresen sus opiniones"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 4.0,
+  "Tus_Profesores" : "Permiten que expresen sus opiniones"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 2.2,
+  "Tus_Profesores" : "Permiten que expresen sus opiniones"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.1,
+  "Tus_Profesores" : "Permiten que expresen sus opiniones"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.2,
+  "Tus_Profesores" : "Permiten que expresen sus opiniones"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.2,
+  "Tus_Profesores" : "Permiten que expresen sus opiniones"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 19.0,
+  "Tus_Profesores" : "Permiten que expresen sus opiniones"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 15.1,
+  "Tus_Profesores" : "Permiten que expresen sus opiniones"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 74.6,
+  "Tus_Profesores" : "Permiten que expresen sus opiniones"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 76.6,
+  "Tus_Profesores" : "Permiten que expresen sus opiniones"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 82.9,
+  "Tus_Profesores" : "Les ha insultado o humillado"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 87.3,
+  "Tus_Profesores" : "Les ha insultado o humillado"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 10.9,
+  "Tus_Profesores" : "Les ha insultado o humillado"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 6.0,
+  "Tus_Profesores" : "Les ha insultado o humillado"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 4.4,
+  "Tus_Profesores" : "Les ha insultado o humillado"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.2,
+  "Tus_Profesores" : "Les ha insultado o humillado"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 0.5,
+  "Tus_Profesores" : "Les ha insultado o humillado"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 0.2,
+  "Tus_Profesores" : "Les ha insultado o humillado"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 1.3,
+  "Tus_Profesores" : "Les ha insultado o humillado"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 0.3,
+  "Tus_Profesores" : "Les ha insultado o humillado"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 3.4,
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 0.2,
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.1,
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 0.2,
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 12.4,
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 8.7,
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 37.0,
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 26.6,
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 47.1,
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 64.3,
+  "Tus_Profesores" : "Consideran sus aportes y sugerencias"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 55.6,
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Nunca",
+  "Porcentaje" : 67.0,
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 12.5,
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi nunca",
+  "Porcentaje" : 9.8,
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.7,
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Algunas veces",
+  "Porcentaje" : 6.6,
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 7.1,
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Casi siempre",
+  "Porcentaje" : 7.5,
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres"
+}, {
+  "Sexo" : "Hombre",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 18.1,
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres"
+}, {
+  "Sexo" : "Mujer",
+  "Respuesta" : "Siempre",
+  "Porcentaje" : 9.0,
+  "Tus_Profesores" : "Tratan de manera desigual a hombres y mujeres"
+} ]
