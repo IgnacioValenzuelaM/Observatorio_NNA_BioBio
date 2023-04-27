@@ -1,0 +1,551 @@
+[ {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 10.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 10.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 10.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 16.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 17.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 83.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 82.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 7.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 11.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 5.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 88.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 19.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 9.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 34.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 42.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 22.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 80.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 65.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 57.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 77.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 8.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 6.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 8.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 7.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Grado_Escolar" : "7° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Grado_Escolar" : "8° Básico",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Grado_Escolar" : "1° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Grado_Escolar" : "2° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Grado_Escolar" : "3° Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.8
+} ]

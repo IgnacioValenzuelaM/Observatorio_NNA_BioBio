@@ -1,0 +1,221 @@
+[ {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 8.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 5.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 88.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 8.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 11.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 76.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 23.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 9.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 80.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 19.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 80.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 84.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 19.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 15.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 9.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Nacionalidad" : "Chileno/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Nacionalidad" : "Extranjero/a",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.7
+} ]

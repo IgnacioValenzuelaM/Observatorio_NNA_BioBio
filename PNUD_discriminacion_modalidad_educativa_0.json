@@ -1,0 +1,221 @@
+[ {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "Si",
+  "Porcentaje" : 8.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "Si",
+  "Porcentaje" : 9.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "Si",
+  "Porcentaje" : 9.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "Si",
+  "Porcentaje" : 10.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "No",
+  "Porcentaje" : 80.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "No",
+  "Porcentaje" : 82.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "Si",
+  "Porcentaje" : 19.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "Si",
+  "Porcentaje" : 17.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Modalidad_Educativa" : "Científico-Humanista",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Modalidad_Educativa" : "Técnico Profesional",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.8
+} ]

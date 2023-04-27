@@ -1,0 +1,331 @@
+[ {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 5.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por ser hombre o mujer",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 0.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu identidad de género o tu orientación sexual como gay, lesbiana u otra",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 82.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Si",
+  "Porcentaje" : 7.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 8.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu edad, o sea, por ser muy joven",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 18.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu nacionalidad o la de tus padres",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 4.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 83.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Si",
+  "Porcentaje" : 7.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 10.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu forma de vestir o tu estilo",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 16.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Si",
+  "Porcentaje" : 5.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu color de piel u origen",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 7.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 79.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 82.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 76.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Si",
+  "Porcentaje" : 20.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 17.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu cuerpo o tu apariencia física",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 23.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.9
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.1
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu situación económica",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 5.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por el lugar en el que vives",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 6.6
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.3
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.7
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por tu religión",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 10.0
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.2
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.4
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Si",
+  "Porcentaje" : 2.5
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 3.8
+}, {
+  "Te_Sientes_Discriminado_por" : "Por alguna discapacidad o dificultad de salud",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Si",
+  "Porcentaje" : 1.6
+} ]
