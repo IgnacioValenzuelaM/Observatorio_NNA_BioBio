@@ -1,0 +1,451 @@
+[ {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 83.0
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.8
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.0
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 17.0
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 10.2
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.0
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 76.9
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 85.6
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.0
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 23.1
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 14.4
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 11.0
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 76.9
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 79.8
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 86.7
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 23.1
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 20.2
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 13.3
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 53.7
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.2
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.8
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 46.3
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.8
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 8.2
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.1
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.8
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 10.9
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.2
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.6
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.1
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 4.4
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.9
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 83.0
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.2
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 85.6
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 17.0
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 8.8
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 14.4
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.5
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.3
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.0
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 10.5
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.7
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 9.0
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.6
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.5
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.4
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.5
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 66.4
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.2
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.4
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 33.6
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.8
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 3.6
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.4
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.4
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.4
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 6.6
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 6.6
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 10.6
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 82.6
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.8
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.2
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 17.4
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 9.2
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.8
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 76.9
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 82.1
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 76.7
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 23.1
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 17.9
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 23.3
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 65.9
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.2
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.3
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 34.1
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 5.8
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 9.7
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.7
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.5
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Percepción_Nivel_Socioeconómico" : "Alto",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Percepción_Nivel_Socioeconómico" : "Medio",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 4.3
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Percepción_Nivel_Socioeconómico" : "Bajo",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.5
+} ]
