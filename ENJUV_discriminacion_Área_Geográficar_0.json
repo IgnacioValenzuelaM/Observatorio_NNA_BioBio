@@ -1,0 +1,301 @@
+[ {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.2
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 5.8
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 86.5
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 13.5
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 83.8
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 16.2
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.5
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 6.5
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.2
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 6.8
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.7
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.3
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 88.5
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 88.8
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 11.5
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 11.2
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.8
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 5.2
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.1
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.9
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 69.5
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 3.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 30.5
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.8
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 10.2
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.9
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 6.1
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 79.9
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 78.4
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 20.1
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 21.6
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.8
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 9.2
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.3
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.2
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Área_Geográfica" : "Urbano",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.7
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Área_Geográfica" : "Rural",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 4.8
+} ]

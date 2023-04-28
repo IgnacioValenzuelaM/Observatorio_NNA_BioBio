@@ -1,0 +1,301 @@
+[ {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.4
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.0
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 4.6
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 6.0
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 88.3
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 87.0
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 11.7
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 13.0
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 86.3
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 83.9
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 13.7
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 16.1
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.1
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.9
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 4.9
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 7.1
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.5
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.1
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 5.5
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 6.9
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.4
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.4
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.6
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 3.6
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.4
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 84.9
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 7.6
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 15.1
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.5
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.0
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 5.5
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 4.0
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.3
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.7
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.9
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.6
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 5.1
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 5.4
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.1
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 84.0
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.9
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 16.0
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.9
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.7
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 3.1
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 8.3
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 81.6
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 78.1
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 18.4
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 21.9
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.7
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.5
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 7.3
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 9.5
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Sexo" : "Hombre",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.4
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Sexo" : "Mujer",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.8
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Sexo" : "Hombre",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 4.6
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Sexo" : "Mujer",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.2
+} ]

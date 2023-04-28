@@ -1,0 +1,451 @@
+[ {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.7
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 85.6
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.2
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 3.3
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 14.4
+}, {
+  "Declaran_discriminación_por" : "Su Sexo",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.8
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.4
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 82.3
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 87.8
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 8.6
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 17.7
+}, {
+  "Declaran_discriminación_por" : "Su Edad",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 12.2
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 88.7
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 79.8
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 85.5
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 11.3
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 20.2
+}, {
+  "Declaran_discriminación_por" : "Ser Joven",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 14.5
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.2
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.1
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.4
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.8
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 4.9
+}, {
+  "Declaran_discriminación_por" : "Su Clase social",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 9.6
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.9
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 85.3
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.8
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 3.1
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 14.7
+}, {
+  "Declaran_discriminación_por" : "Su Orientación política",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 3.2
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.2
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.9
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.8
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Orientación religiosa",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 3.1
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 88.1
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.9
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 87.2
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 11.9
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 9.1
+}, {
+  "Declaran_discriminación_por" : "Su Manera de vestir",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 12.8
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.0
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.9
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.7
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 7.0
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 5.1
+}, {
+  "Declaran_discriminación_por" : "El lugar donde vive",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.3
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.0
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.5
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.0
+}, {
+  "Declaran_discriminación_por" : "Su Nacionalidad",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.5
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.6
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.2
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.6
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 7.4
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 7.8
+}, {
+  "Declaran_discriminación_por" : "Su Orientación sexual",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.4
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.3
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.5
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.7
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 9.7
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 10.5
+}, {
+  "Declaran_discriminación_por" : "Ser Estudiante",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 8.3
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.2
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 81.3
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.0
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.8
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 18.7
+}, {
+  "Declaran_discriminación_por" : "Alguna discapacidad",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.0
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 67.2
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 84.0
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 88.6
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 32.8
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 16.0
+}, {
+  "Declaran_discriminación_por" : "Aspecto físico",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 11.4
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 87.2
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 88.9
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 96.9
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 12.8
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 11.1
+}, {
+  "Declaran_discriminación_por" : "Tener piercing, tatuajes, expansiones",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 3.1
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.1
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 100.0
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.9
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Área_Geográfica" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 6.9
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Área_Geográfica" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.0
+}, {
+  "Declaran_discriminación_por" : "Su Color de piel",
+  "Área_Geográfica" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.1
+} ]
