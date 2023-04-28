@@ -1,0 +1,351 @@
+[ {
+  "Declaran" : "Fumado cigarrillos",
+  "Edad" : "13 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 19.5
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Edad" : "14 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 22.8
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Edad" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 40.3
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Edad" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 47.7
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Edad" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 55.8
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Edad" : "13 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 80.5
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Edad" : "14 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 77.2
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Edad" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 59.7
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Edad" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 52.3
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Edad" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 44.2
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Edad" : "13 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 53.9
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Edad" : "14 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 64.3
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Edad" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 75.8
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Edad" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 83.8
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Edad" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 82.8
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Edad" : "13 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 46.1
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Edad" : "14 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 35.7
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Edad" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 24.2
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Edad" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 15.2
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Edad" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 17.2
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Edad" : "13 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 11.6
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Edad" : "14 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 10.1
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Edad" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 13.9
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Edad" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 13.4
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Edad" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 17.9
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Edad" : "13 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 88.4
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Edad" : "14 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.9
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Edad" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 86.1
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Edad" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 86.6
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Edad" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 82.1
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Edad" : "13 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 9.4
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Edad" : "14 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 18.6
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Edad" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 28.8
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Edad" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 40.5
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Edad" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 44.1
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Edad" : "13 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 90.6
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Edad" : "14 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 81.4
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Edad" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 71.2
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Edad" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 59.5
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Edad" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 55.9
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Edad" : "13 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.8
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Edad" : "14 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.0
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Edad" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.4
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Edad" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 4.3
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Edad" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 5.1
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Edad" : "13 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.2
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Edad" : "14 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.0
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Edad" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.6
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Edad" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.7
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Edad" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.9
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Edad" : "13 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.3
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Edad" : "14 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.8
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Edad" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.4
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Edad" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.0
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Edad" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.8
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Edad" : "13 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.7
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Edad" : "14 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.2
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Edad" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.6
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Edad" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.0
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Edad" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.2
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Edad" : "13 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 7.5
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Edad" : "14 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 5.3
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Edad" : "15 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 7.7
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Edad" : "16 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 8.5
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Edad" : "17 años",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 6.5
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Edad" : "13 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.5
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Edad" : "14 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.7
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Edad" : "15 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.3
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Edad" : "16 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 91.5
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Edad" : "17 años",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.5
+} ]

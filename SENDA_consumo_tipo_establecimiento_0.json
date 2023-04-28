@@ -1,0 +1,211 @@
+[ {
+  "Declaran" : "Fumado cigarrillos",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 42.6
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 36.4
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 39.8
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 57.4
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 63.6
+}, {
+  "Declaran" : "Fumado cigarrillos",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 60.2
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 70.2
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 75.1
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 82.4
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 29.8
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 24.9
+}, {
+  "Declaran" : "Consumido alcohol ",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 17.6
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 14.6
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 13.3
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 10.7
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 85.4
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 86.7
+}, {
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 89.3
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 33.1
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 28.9
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 24.5
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 66.9
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 71.1
+}, {
+  "Declaran" : "Consumido marihuana",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 75.5
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 4.5
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.4
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.9
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.5
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.6
+}, {
+  "Declaran" : "Consumido cocaína",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.1
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.8
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.5
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 0.7
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.2
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.5
+}, {
+  "Declaran" : "Consumido pasta base",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 99.3
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 6.4
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 7.5
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 7.5
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Tipo_Establecimiento" : "Municipal",
+  "Respuesta" : "No",
+  "Porcentaje" : 93.6
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Tipo_Establecimiento" : "Particular Subvencionado",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.5
+}, {
+  "Declaran" : "Consumido inhalables",
+  "Tipo_Establecimiento" : "Particular Pagado",
+  "Respuesta" : "No",
+  "Porcentaje" : 92.5
+} ]

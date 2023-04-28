@@ -1,0 +1,141 @@
+[ {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Fumado cigarrillos",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 37.2
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Fumado cigarrillos",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 43.5
+}, {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Fumado cigarrillos",
+  "Respuesta" : "No",
+  "Porcentaje" : 62.8
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Fumado cigarrillos",
+  "Respuesta" : "No",
+  "Porcentaje" : 56.5
+}, {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Consumido alcohol ",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 75.8
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Consumido alcohol ",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 69.0
+}, {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Consumido alcohol ",
+  "Respuesta" : "No",
+  "Porcentaje" : 24.2
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Consumido alcohol ",
+  "Respuesta" : "No",
+  "Porcentaje" : 31.0
+}, {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 13.5
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 13.5
+}, {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Respuesta" : "No",
+  "Porcentaje" : 86.5
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Consumido tranquilizantes sin receta médica",
+  "Respuesta" : "No",
+  "Porcentaje" : 86.5
+}, {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Consumido marihuana",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 29.0
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Consumido marihuana",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 33.5
+}, {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Consumido marihuana",
+  "Respuesta" : "No",
+  "Porcentaje" : 71.0
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Consumido marihuana",
+  "Respuesta" : "No",
+  "Porcentaje" : 66.5
+}, {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Consumido cocaína",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 2.5
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Consumido cocaína",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 5.5
+}, {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Consumido cocaína",
+  "Respuesta" : "No",
+  "Porcentaje" : 97.5
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Consumido cocaína",
+  "Respuesta" : "No",
+  "Porcentaje" : 94.5
+}, {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Consumido pasta base",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 1.1
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Consumido pasta base",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 4.4
+}, {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Consumido pasta base",
+  "Respuesta" : "No",
+  "Porcentaje" : 98.9
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Consumido pasta base",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.6
+}, {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Consumido inhalables",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 4.7
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Consumido inhalables",
+  "Respuesta" : "Sí",
+  "Porcentaje" : 14.0
+}, {
+  "Pueblo_Originario" : "No pertenece a pueblo indígena",
+  "Declaran" : "Consumido inhalables",
+  "Respuesta" : "No",
+  "Porcentaje" : 95.3
+}, {
+  "Pueblo_Originario" : "Pertenece a pueblo indígena",
+  "Declaran" : "Consumido inhalables",
+  "Respuesta" : "No",
+  "Porcentaje" : 86.0
+} ]
