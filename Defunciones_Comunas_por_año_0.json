@@ -1,0 +1,4621 @@
+[ {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.17,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 4.35,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 10.87,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.17,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 6.52,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 8.7,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 4.35,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 6.52,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 8.7,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 13.04,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 8.7,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.17,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 6.52,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 4.35,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 4.35,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 6.52,
+  "First(COMUNA)" : "Alto Biobío",
+  "Iteration" : 0
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 20.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "Antuco",
+  "Iteration" : 1
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 6.16,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 6.16,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.32,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.32,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 4.74,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 2.37,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 5.69,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 17.0,
+  "PORCENTAJE" : 8.06,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 4.27,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 14.0,
+  "PORCENTAJE" : 6.64,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 11.0,
+  "PORCENTAJE" : 5.21,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.84,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 2.37,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.84,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.79,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.32,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.79,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 4.27,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.84,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.32,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.32,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.84,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 1.9,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 0.47,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 1.9,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 4.27,
+  "First(COMUNA)" : "Arauco",
+  "Iteration" : 2
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 11.0,
+  "PORCENTAJE" : 9.02,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 9.84,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.1,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 4.92,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.1,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.1,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 5.74,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 4.92,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 5.74,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 5.74,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 5.74,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 2.46,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 0.82,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.64,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 4.92,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 0.82,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.64,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.28,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 4.92,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 0.82,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 2.46,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 0.82,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.1,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 0.82,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 2.46,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.1,
+  "First(COMUNA)" : "Cabrero",
+  "Iteration" : 3
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.56,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 14.0,
+  "PORCENTAJE" : 6.22,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 14.0,
+  "PORCENTAJE" : 6.22,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 14.0,
+  "PORCENTAJE" : 6.22,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 4.0,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 4.0,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 16.0,
+  "PORCENTAJE" : 7.11,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 5.78,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 5.33,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.56,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 11.0,
+  "PORCENTAJE" : 4.89,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.11,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 4.0,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 1.78,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.56,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.11,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 1.78,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 4.44,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.67,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.11,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.56,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 2.22,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 4.44,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 0.89,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 1.78,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.67,
+  "First(COMUNA)" : "Cañete",
+  "Iteration" : 4
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 17.0,
+  "PORCENTAJE" : 4.97,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 27.0,
+  "PORCENTAJE" : 7.89,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 20.0,
+  "PORCENTAJE" : 5.85,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 17.0,
+  "PORCENTAJE" : 4.97,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 16.0,
+  "PORCENTAJE" : 4.68,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 18.0,
+  "PORCENTAJE" : 5.26,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 14.0,
+  "PORCENTAJE" : 4.09,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 16.0,
+  "PORCENTAJE" : 4.68,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 3.8,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 17.0,
+  "PORCENTAJE" : 4.97,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 19.0,
+  "PORCENTAJE" : 5.56,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 2.05,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 3.51,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 21.0,
+  "PORCENTAJE" : 6.14,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 3.51,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 14.0,
+  "PORCENTAJE" : 4.09,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 2.05,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 2.92,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 16.0,
+  "PORCENTAJE" : 4.68,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 1.75,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 3.8,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 1.46,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 1.17,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 1.46,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 1.75,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 2.92,
+  "First(COMUNA)" : "Chiguayante",
+  "Iteration" : 5
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 80.0,
+  "PORCENTAJE" : 7.16,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 65.0,
+  "PORCENTAJE" : 5.82,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 44.0,
+  "PORCENTAJE" : 3.94,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 57.0,
+  "PORCENTAJE" : 5.1,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 47.0,
+  "PORCENTAJE" : 4.21,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 50.0,
+  "PORCENTAJE" : 4.48,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 54.0,
+  "PORCENTAJE" : 4.83,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 64.0,
+  "PORCENTAJE" : 5.73,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 31.0,
+  "PORCENTAJE" : 2.78,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 49.0,
+  "PORCENTAJE" : 4.39,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 34.0,
+  "PORCENTAJE" : 3.04,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 41.0,
+  "PORCENTAJE" : 3.67,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 42.0,
+  "PORCENTAJE" : 3.76,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 55.0,
+  "PORCENTAJE" : 4.92,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 44.0,
+  "PORCENTAJE" : 3.94,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 32.0,
+  "PORCENTAJE" : 2.86,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 44.0,
+  "PORCENTAJE" : 3.94,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 32.0,
+  "PORCENTAJE" : 2.86,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 35.0,
+  "PORCENTAJE" : 3.13,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 26.0,
+  "PORCENTAJE" : 2.33,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 28.0,
+  "PORCENTAJE" : 2.51,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 33.0,
+  "PORCENTAJE" : 2.95,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 32.0,
+  "PORCENTAJE" : 2.86,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 31.0,
+  "PORCENTAJE" : 2.78,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 33.0,
+  "PORCENTAJE" : 2.95,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 34.0,
+  "PORCENTAJE" : 3.04,
+  "First(COMUNA)" : "Concepción",
+  "Iteration" : 6
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.27,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 6.82,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 11.36,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 9.09,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 13.64,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.27,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 6.82,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 4.55,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 4.55,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 4.55,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.27,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 4.55,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.27,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.27,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 4.55,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 9.09,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 4.55,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.27,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.27,
+  "First(COMUNA)" : "Contulmo",
+  "Iteration" : 7
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 31.0,
+  "PORCENTAJE" : 5.88,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 29.0,
+  "PORCENTAJE" : 5.5,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 32.0,
+  "PORCENTAJE" : 6.07,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 27.0,
+  "PORCENTAJE" : 5.12,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 18.0,
+  "PORCENTAJE" : 3.42,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 33.0,
+  "PORCENTAJE" : 6.26,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 22.0,
+  "PORCENTAJE" : 4.17,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 18.0,
+  "PORCENTAJE" : 3.42,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 21.0,
+  "PORCENTAJE" : 3.98,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 2.47,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 21.0,
+  "PORCENTAJE" : 3.98,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 17.0,
+  "PORCENTAJE" : 3.23,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 28.0,
+  "PORCENTAJE" : 5.31,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 2.28,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 15.0,
+  "PORCENTAJE" : 2.85,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 17.0,
+  "PORCENTAJE" : 3.23,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 26.0,
+  "PORCENTAJE" : 4.93,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 20.0,
+  "PORCENTAJE" : 3.8,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 15.0,
+  "PORCENTAJE" : 2.85,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 17.0,
+  "PORCENTAJE" : 3.23,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 16.0,
+  "PORCENTAJE" : 3.04,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 15.0,
+  "PORCENTAJE" : 2.85,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 16.0,
+  "PORCENTAJE" : 3.04,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 14.0,
+  "PORCENTAJE" : 2.66,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 1.71,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 25.0,
+  "PORCENTAJE" : 4.74,
+  "First(COMUNA)" : "Coronel",
+  "Iteration" : 8
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 5.43,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.8,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 14.0,
+  "PORCENTAJE" : 7.61,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 11.0,
+  "PORCENTAJE" : 5.98,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 4.89,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 4.35,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 16.0,
+  "PORCENTAJE" : 8.7,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 4.35,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 4.35,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 3.26,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.09,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 4.35,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.8,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 2.72,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 5.43,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 3.26,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 3.26,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 4.89,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 2.72,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.09,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 1.63,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.17,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 3.26,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.8,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 1.63,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.17,
+  "First(COMUNA)" : "Curanilahue",
+  "Iteration" : 9
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.56,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 7.41,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.56,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 7.41,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.85,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 7.41,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.85,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.56,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.85,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.56,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.85,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.85,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.56,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 7.41,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.7,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.85,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.7,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.56,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.56,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.85,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.85,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.7,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.56,
+  "First(COMUNA)" : "Florida",
+  "Iteration" : 10
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.21,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 21.0,
+  "PORCENTAJE" : 9.63,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 15.0,
+  "PORCENTAJE" : 6.88,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 5.96,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 11.0,
+  "PORCENTAJE" : 5.05,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 5.96,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.67,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 4.59,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 4.59,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 16.0,
+  "PORCENTAJE" : 7.34,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.67,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 11.0,
+  "PORCENTAJE" : 5.05,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 11.0,
+  "PORCENTAJE" : 5.05,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 15.0,
+  "PORCENTAJE" : 6.88,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.75,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 15.0,
+  "PORCENTAJE" : 6.88,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.67,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.67,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 5.5,
+  "First(COMUNA)" : "Hualpén",
+  "Iteration" : 11
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 5.94,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.95,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.96,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.95,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.96,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.98,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.95,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.96,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.96,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.95,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 6.93,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.96,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.95,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.98,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.96,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 5.94,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.96,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.96,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 0.99,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.95,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.98,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 5.94,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 0.99,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.98,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.96,
+  "First(COMUNA)" : "Hualqui",
+  "Iteration" : 12
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 5.22,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 8.7,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 5.22,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.74,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.48,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.35,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 5.22,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.35,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 5.22,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.48,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 0.87,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 7.83,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 7.83,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 2.61,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.48,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.48,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 4.35,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 2.61,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.74,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.48,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.74,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 0.87,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 2.61,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.48,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 2.61,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 3.48,
+  "First(COMUNA)" : "Laja",
+  "Iteration" : 13
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 6.29,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 8.18,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.14,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 5.03,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 5.03,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 6.29,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 6.29,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 4.4,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 3.77,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 1.89,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.14,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 5.03,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.52,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 3.77,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 5.03,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 5.03,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 0.63,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 3.77,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.52,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 5.03,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 3.77,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 1.89,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.52,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.26,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 3.77,
+  "First(COMUNA)" : "Lebu",
+  "Iteration" : 14
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 6.76,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 6.08,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 4.73,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.38,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.38,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 4.05,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 4.05,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 5.41,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 4.05,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 5.41,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 4.73,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 4.05,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 6.08,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 4.05,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 4.05,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.38,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 4.73,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 2.03,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.7,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 2.03,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 2.03,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.38,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.38,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.38,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.7,
+  "First(COMUNA)" : "Los Álamos",
+  "Iteration" : 15
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 60.0,
+  "PORCENTAJE" : 5.79,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 55.0,
+  "PORCENTAJE" : 5.3,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 58.0,
+  "PORCENTAJE" : 5.59,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 41.0,
+  "PORCENTAJE" : 3.95,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 49.0,
+  "PORCENTAJE" : 4.73,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 58.0,
+  "PORCENTAJE" : 5.59,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 47.0,
+  "PORCENTAJE" : 4.53,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 49.0,
+  "PORCENTAJE" : 4.73,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 39.0,
+  "PORCENTAJE" : 3.76,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 29.0,
+  "PORCENTAJE" : 2.8,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 45.0,
+  "PORCENTAJE" : 4.34,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 44.0,
+  "PORCENTAJE" : 4.24,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 51.0,
+  "PORCENTAJE" : 4.92,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 44.0,
+  "PORCENTAJE" : 4.24,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 42.0,
+  "PORCENTAJE" : 4.05,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 33.0,
+  "PORCENTAJE" : 3.18,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 33.0,
+  "PORCENTAJE" : 3.18,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 38.0,
+  "PORCENTAJE" : 3.66,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 31.0,
+  "PORCENTAJE" : 2.99,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 34.0,
+  "PORCENTAJE" : 3.28,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 34.0,
+  "PORCENTAJE" : 3.28,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 31.0,
+  "PORCENTAJE" : 2.99,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 26.0,
+  "PORCENTAJE" : 2.51,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 22.0,
+  "PORCENTAJE" : 2.12,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 21.0,
+  "PORCENTAJE" : 2.03,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 23.0,
+  "PORCENTAJE" : 2.22,
+  "First(COMUNA)" : "Los Ángeles",
+  "Iteration" : 16
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 5.28,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 15.0,
+  "PORCENTAJE" : 6.1,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 15.0,
+  "PORCENTAJE" : 6.1,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 3.66,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 17.0,
+  "PORCENTAJE" : 6.91,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 11.0,
+  "PORCENTAJE" : 4.47,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 3.66,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.44,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 4.88,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 4.88,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 17.0,
+  "PORCENTAJE" : 6.91,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 4.88,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 15.0,
+  "PORCENTAJE" : 6.1,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 11.0,
+  "PORCENTAJE" : 4.47,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.44,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 1.63,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 2.85,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 2.03,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 1.63,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 11.0,
+  "PORCENTAJE" : 4.47,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 2.03,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.25,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 1.63,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 2.85,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 1.22,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.25,
+  "First(COMUNA)" : "Lota",
+  "Iteration" : 17
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 6.62,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 14.0,
+  "PORCENTAJE" : 9.27,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 8.61,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 7.95,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 11.0,
+  "PORCENTAJE" : 7.28,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 1.99,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.32,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 4.64,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 3.97,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.31,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 3.97,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.65,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 3.97,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.65,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 5.96,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 3.97,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.32,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.31,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.31,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.32,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.31,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.31,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.65,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.32,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 0.66,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.32,
+  "First(COMUNA)" : "Mulchén",
+  "Iteration" : 18
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 6.71,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 14.0,
+  "PORCENTAJE" : 9.4,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.36,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 8.05,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.68,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.36,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.68,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 8.05,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 6.71,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 6.71,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 4.7,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 2.01,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.68,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 2.01,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 6.04,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.68,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 3.36,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 0.67,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.68,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 4.03,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 2.01,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.34,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.68,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.34,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 1.34,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 2.68,
+  "First(COMUNA)" : "Nacimiento",
+  "Iteration" : 19
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.77,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.66,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 7.55,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 7.55,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.66,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 11.32,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.77,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 7.55,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.77,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.89,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.66,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.89,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.66,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.89,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.89,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.77,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.89,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.66,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.89,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.89,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.77,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.89,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.89,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.89,
+  "First(COMUNA)" : "Negrete",
+  "Iteration" : 20
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 5.74,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 16.0,
+  "PORCENTAJE" : 7.66,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 4.78,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 15.0,
+  "PORCENTAJE" : 7.18,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 6.22,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.83,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.35,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 6.22,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 4.78,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.35,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.87,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 4.31,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 4.78,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.83,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 5.74,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.87,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 4.31,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 1.91,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.87,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 0.96,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 1.91,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 4.31,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 1.91,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 1.44,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 1.44,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 1.44,
+  "First(COMUNA)" : "Penco",
+  "Iteration" : 21
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "Quilaco",
+  "Iteration" : 22
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "Quilaco",
+  "Iteration" : 22
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "Quilaco",
+  "Iteration" : 22
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 30.0,
+  "First(COMUNA)" : "Quilaco",
+  "Iteration" : 22
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "Quilaco",
+  "Iteration" : 22
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "Quilaco",
+  "Iteration" : 22
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "Quilaco",
+  "Iteration" : 22
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "Quilaco",
+  "Iteration" : 22
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 9.76,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 7.32,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 9.76,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 4.88,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.44,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.44,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 4.88,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 9.76,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 12.2,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 4.88,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.44,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 7.32,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.44,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.44,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 2.44,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 7.32,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 7.32,
+  "First(COMUNA)" : "Quilleco",
+  "Iteration" : 23
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 30.0,
+  "PORCENTAJE" : 5.62,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 39.0,
+  "PORCENTAJE" : 7.3,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 19.0,
+  "PORCENTAJE" : 3.56,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 23.0,
+  "PORCENTAJE" : 4.31,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 17.0,
+  "PORCENTAJE" : 3.18,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 2.43,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 17.0,
+  "PORCENTAJE" : 3.18,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 19.0,
+  "PORCENTAJE" : 3.56,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 20.0,
+  "PORCENTAJE" : 3.75,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 18.0,
+  "PORCENTAJE" : 3.37,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 33.0,
+  "PORCENTAJE" : 6.18,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 22.0,
+  "PORCENTAJE" : 4.12,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 30.0,
+  "PORCENTAJE" : 5.62,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 2.43,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 21.0,
+  "PORCENTAJE" : 3.93,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 27.0,
+  "PORCENTAJE" : 5.06,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 2.43,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 19.0,
+  "PORCENTAJE" : 3.56,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 23.0,
+  "PORCENTAJE" : 4.31,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 21.0,
+  "PORCENTAJE" : 3.93,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 17.0,
+  "PORCENTAJE" : 3.18,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 16.0,
+  "PORCENTAJE" : 3.0,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 15.0,
+  "PORCENTAJE" : 2.81,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 17.0,
+  "PORCENTAJE" : 3.18,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 14.0,
+  "PORCENTAJE" : 2.62,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 18.0,
+  "PORCENTAJE" : 3.37,
+  "First(COMUNA)" : "San Pedro de la Paz",
+  "Iteration" : 24
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 5.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 10.0,
+  "First(COMUNA)" : "San Rosendo",
+  "Iteration" : 25
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 10.0,
+  "PORCENTAJE" : 10.31,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 15.0,
+  "PORCENTAJE" : 15.46,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 6.19,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 9.28,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 4.12,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.09,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 6.19,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 5.15,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.06,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 6.19,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.09,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.03,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 4.12,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.06,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.06,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.09,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 4.12,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.06,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.03,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.03,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.06,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.03,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.03,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.09,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.03,
+  "First(COMUNA)" : "Santa Bárbara",
+  "Iteration" : 26
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 5.41,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.35,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 6.76,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.7,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 4.05,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 6.76,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 8.11,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 8.11,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 4.05,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.7,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 5.41,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.35,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.35,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.7,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.7,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 4.05,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.7,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 6.76,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 4.05,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.7,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.35,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 5.41,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.35,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 4.05,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.35,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.7,
+  "First(COMUNA)" : "Santa Juana",
+  "Iteration" : 27
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 82.0,
+  "PORCENTAJE" : 9.68,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 84.0,
+  "PORCENTAJE" : 9.92,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 53.0,
+  "PORCENTAJE" : 6.26,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 59.0,
+  "PORCENTAJE" : 6.97,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 68.0,
+  "PORCENTAJE" : 8.03,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 45.0,
+  "PORCENTAJE" : 5.31,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 41.0,
+  "PORCENTAJE" : 4.84,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 0.94,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 28.0,
+  "PORCENTAJE" : 3.31,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 28.0,
+  "PORCENTAJE" : 3.31,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 26.0,
+  "PORCENTAJE" : 3.07,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 33.0,
+  "PORCENTAJE" : 3.9,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 36.0,
+  "PORCENTAJE" : 4.25,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 34.0,
+  "PORCENTAJE" : 4.01,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 22.0,
+  "PORCENTAJE" : 2.6,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 15.0,
+  "PORCENTAJE" : 1.77,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 23.0,
+  "PORCENTAJE" : 2.72,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 21.0,
+  "PORCENTAJE" : 2.48,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 24.0,
+  "PORCENTAJE" : 2.83,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 19.0,
+  "PORCENTAJE" : 2.24,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 22.0,
+  "PORCENTAJE" : 2.6,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 20.0,
+  "PORCENTAJE" : 2.36,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 1.53,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 1.06,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 18.0,
+  "PORCENTAJE" : 2.13,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 16.0,
+  "PORCENTAJE" : 1.89,
+  "First(COMUNA)" : "Talcahuano",
+  "Iteration" : 28
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 7.07,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 11.0,
+  "PORCENTAJE" : 11.11,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.03,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 5.05,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 9.09,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 7.07,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.03,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 5.05,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.03,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.01,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 4.04,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 6.06,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 5.05,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.02,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.03,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.02,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.03,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.01,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.01,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 7.07,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 4.04,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 4.04,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.01,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.02,
+  "First(COMUNA)" : "Tirúa",
+  "Iteration" : 29
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 14.0,
+  "PORCENTAJE" : 6.54,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 18.0,
+  "PORCENTAJE" : 8.41,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 18.0,
+  "PORCENTAJE" : 8.41,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 12.0,
+  "PORCENTAJE" : 5.61,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.74,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.74,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.74,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 13.0,
+  "PORCENTAJE" : 6.07,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 4.21,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.8,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 11.0,
+  "PORCENTAJE" : 5.14,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.27,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.8,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.8,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 3.27,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 4.21,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 2.34,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.74,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.74,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.8,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 0.93,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 8.0,
+  "PORCENTAJE" : 3.74,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.8,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 0.93,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 1.4,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 6.0,
+  "PORCENTAJE" : 2.8,
+  "First(COMUNA)" : "Tomé",
+  "Iteration" : 30
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.17,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 12.07,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.17,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 6.9,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.45,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.45,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.17,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 6.9,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.17,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.72,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.45,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.72,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.17,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.45,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.72,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.72,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.45,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 3.45,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.17,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.72,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.17,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 5.17,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.72,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.72,
+  "First(COMUNA)" : "Tucapel",
+  "Iteration" : 31
+}, {
+  "AÑO" : 1997,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 7.22,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 1998,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 5.15,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 1999,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 7.22,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2000,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 5.15,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2001,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.09,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2002,
+  "NÚMERO_DE_DEFUNCIONES" : 9.0,
+  "PORCENTAJE" : 9.28,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2003,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 7.22,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2004,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.06,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2005,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.03,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2006,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.06,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2007,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.09,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2008,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.09,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2009,
+  "NÚMERO_DE_DEFUNCIONES" : 7.0,
+  "PORCENTAJE" : 7.22,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2010,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.06,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2011,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 4.12,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2012,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.09,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2013,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 4.12,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2014,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.09,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2015,
+  "NÚMERO_DE_DEFUNCIONES" : 4.0,
+  "PORCENTAJE" : 4.12,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2016,
+  "NÚMERO_DE_DEFUNCIONES" : 3.0,
+  "PORCENTAJE" : 3.09,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2017,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.06,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2018,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.03,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2019,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.06,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2020,
+  "NÚMERO_DE_DEFUNCIONES" : 2.0,
+  "PORCENTAJE" : 2.06,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2021,
+  "NÚMERO_DE_DEFUNCIONES" : 1.0,
+  "PORCENTAJE" : 1.03,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+}, {
+  "AÑO" : 2022,
+  "NÚMERO_DE_DEFUNCIONES" : 5.0,
+  "PORCENTAJE" : 5.15,
+  "First(COMUNA)" : "Yumbel",
+  "Iteration" : 32
+} ]
