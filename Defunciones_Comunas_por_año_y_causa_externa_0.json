@@ -1,0 +1,5311 @@
+[ {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ALTO BIOBÍO"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ALTO BIOBÍO"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ALTO BIOBÍO"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ALTO BIOBÍO"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ALTO BIOBÍO"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ALTO BIOBÍO"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ALTO BIOBÍO"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ALTO BIOBÍO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ANTUCO"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ANTUCO"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ANTUCO"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ANTUCO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 75.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2020,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "ARAUCO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CABRERO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 33.34,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2020,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CAÑETE"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 50.01,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 75.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CHIGUAYANTE"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 44.44,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 22.22,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 11.11,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 11.11,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 11.11,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 30.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 30.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.58,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 22.22,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 22.22,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 22.22,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 11.11,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 11.11,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 11.11,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 57.14,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 37.5,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 37.5,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.58,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 37.5,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 37.5,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 12.5,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 12.5,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 9,
+  "PORCENTAJE_POR_AÑO" : 69.22,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 15.38,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 7.69,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 7.69,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 33.34,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 5,
+  "PORCENTAJE_POR_AÑO" : 62.5,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 12.5,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 12.5,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 12.5,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2020,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 80.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2020,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 99.99,
+  "COMUNA" : "CONCEPCIÓN"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CONTULMO"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CONTULMO"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CONTULMO"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "CONTULMO"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CONTULMO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 5,
+  "PORCENTAJE_POR_AÑO" : 71.43,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 42.87,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 12.5,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 12.5,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 75.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 50.01,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2020,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2020,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2020,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CORONEL"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "CURANILAHUE"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "FLORIDA"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "FLORIDA"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "FLORIDA"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "FLORIDA"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "FLORIDA"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "FLORIDA"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "FLORIDA"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "FLORIDA"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "FLORIDA"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "FLORIDA"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "FLORIDA"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "FLORIDA"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 60.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "HUALPÉN"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALQUI"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALQUI"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALQUI"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALQUI"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "HUALQUI"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "HUALQUI"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALQUI"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALQUI"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALQUI"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "HUALQUI"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "HUALQUI"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALQUI"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "HUALQUI"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LAJA"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LEBU"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOS ÁLAMOS"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 24.99,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 30.77,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 30.77,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 15.38,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 15.38,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 7.69,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 44.44,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 22.22,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 5,
+  "PORCENTAJE_POR_AÑO" : 62.5,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 12.5,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 30.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 30.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 10.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 10.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 5,
+  "PORCENTAJE_POR_AÑO" : 33.34,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 26.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 13.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 13.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 6.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 6.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 37.5,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 12.5,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 12.5,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 12.5,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 24.99,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 57.15,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 5,
+  "PORCENTAJE_POR_AÑO" : 41.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 16.66,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 8.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 22.22,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 22.22,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 11.11,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 11.11,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 5,
+  "PORCENTAJE_POR_AÑO" : 71.43,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 30.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 30.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 10.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 10.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 37.5,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 37.5,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 12.5,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 12.5,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 80.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 6,
+  "PORCENTAJE_POR_AÑO" : 75.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2020,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2020,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOS ÁNGELES"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 60.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 75.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "LOTA"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "MULCHÉN"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 60.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NACIMIENTO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NEGRETE"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "NEGRETE"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "NEGRETE"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NEGRETE"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NEGRETE"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NEGRETE"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NEGRETE"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NEGRETE"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NEGRETE"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NEGRETE"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NEGRETE"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NEGRETE"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "NEGRETE"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "PENCO"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "QUILACO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "QUILLECO"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "QUILLECO"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "QUILLECO"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "QUILLECO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 5,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 10.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 60.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 42.86,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.58,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 16.67,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 75.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2020,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2020,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "SAN PEDRO DE LA PAZ"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SAN ROSENDO"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SAN ROSENDO"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SAN ROSENDO"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SAN ROSENDO"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SAN ROSENDO"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN ROSENDO"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SAN ROSENDO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA BÁRBARA"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2020,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "SANTA JUANA"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 7,
+  "PORCENTAJE_POR_AÑO" : 41.17,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 23.53,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 11.76,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 11.76,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 5.88,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 5.88,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 5,
+  "PORCENTAJE_POR_AÑO" : 55.55,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 22.22,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 22.22,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 5,
+  "PORCENTAJE_POR_AÑO" : 71.43,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 5,
+  "PORCENTAJE_POR_AÑO" : 45.45,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 18.18,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 18.18,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 9.09,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 9.09,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 36.36,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 27.27,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 18.18,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 9.09,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 9.09,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 28.57,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 14.29,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 4,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 40.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 20.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 6,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 22.22,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 11.11,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 25.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2014,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2021,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TALCAHUANO"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.67,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2018,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TIRÚA"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 5,
+  "PORCENTAJE_POR_AÑO" : 55.55,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 22.22,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 22.22,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2001,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2004,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2005,
+  "CAUSA_EXTERNA" : "Agresiones",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Exposición al humo, fuego y llamas",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2020,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TOMÉ"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 2008,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 2010,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 2012,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 2013,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 2017,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "TUCAPEL"
+}, {
+  "AÑO" : 1997,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 1998,
+  "CAUSA_EXTERNA" : "Ahogamiento y sumersión accidentales",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 1999,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 66.66,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2000,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2002,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2003,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2006,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2007,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2009,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 50.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2011,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2015,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2016,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 3,
+  "PORCENTAJE_POR_AÑO" : 99.99,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2019,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 2,
+  "PORCENTAJE_POR_AÑO" : 100.0,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Lesiones autoinfligidas intencionalmente",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Peatón lesionado en accidente de transporte",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "YUMBEL"
+}, {
+  "AÑO" : 2022,
+  "CAUSA_EXTERNA" : "Otras",
+  "NÚMERO_DE_DEFUNCIONES" : 1,
+  "PORCENTAJE_POR_AÑO" : 33.33,
+  "COMUNA" : "YUMBEL"
+} ]
