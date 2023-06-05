@@ -1,0 +1,253 @@
+[ {
+  "AÑO" : 2014,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 94.41,
+  "PROMEDIO_DE_NOTAS" : 5.71,
+  "MEDIANA_DE_NOTAS" : 5.7
+}, {
+  "AÑO" : 2014,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 5.59,
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2014,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 96.25,
+  "PROMEDIO_DE_NOTAS" : 5.86,
+  "MEDIANA_DE_NOTAS" : 5.9
+}, {
+  "AÑO" : 2014,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 3.75,
+  "PROMEDIO_DE_NOTAS" : 4.35,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2015,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 94.46,
+  "PROMEDIO_DE_NOTAS" : 5.74,
+  "MEDIANA_DE_NOTAS" : 5.7
+}, {
+  "AÑO" : 2015,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 5.54,
+  "PROMEDIO_DE_NOTAS" : 4.33,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2015,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 96.37,
+  "PROMEDIO_DE_NOTAS" : 5.9,
+  "MEDIANA_DE_NOTAS" : 5.9
+}, {
+  "AÑO" : 2015,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 3.63,
+  "PROMEDIO_DE_NOTAS" : 4.36,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2016,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 95.08,
+  "PROMEDIO_DE_NOTAS" : 5.77,
+  "MEDIANA_DE_NOTAS" : 5.8
+}, {
+  "AÑO" : 2016,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 4.92,
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2016,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 96.7,
+  "PROMEDIO_DE_NOTAS" : 5.93,
+  "MEDIANA_DE_NOTAS" : 6.0
+}, {
+  "AÑO" : 2016,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 3.3,
+  "PROMEDIO_DE_NOTAS" : 4.33,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2017,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 95.68,
+  "PROMEDIO_DE_NOTAS" : 5.8,
+  "MEDIANA_DE_NOTAS" : 5.8
+}, {
+  "AÑO" : 2017,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 4.32,
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2017,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 97.24,
+  "PROMEDIO_DE_NOTAS" : 5.96,
+  "MEDIANA_DE_NOTAS" : 6.0
+}, {
+  "AÑO" : 2017,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 2.76,
+  "PROMEDIO_DE_NOTAS" : 4.37,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2018,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 96.02,
+  "PROMEDIO_DE_NOTAS" : 5.83,
+  "MEDIANA_DE_NOTAS" : 5.8
+}, {
+  "AÑO" : 2018,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 3.98,
+  "PROMEDIO_DE_NOTAS" : 4.29,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2018,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 97.48,
+  "PROMEDIO_DE_NOTAS" : 5.99,
+  "MEDIANA_DE_NOTAS" : 6.0
+}, {
+  "AÑO" : 2018,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 2.52,
+  "PROMEDIO_DE_NOTAS" : 4.36,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2019,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 97.1,
+  "PROMEDIO_DE_NOTAS" : 5.88,
+  "MEDIANA_DE_NOTAS" : 5.9
+}, {
+  "AÑO" : 2019,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 2.9,
+  "PROMEDIO_DE_NOTAS" : 4.27,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2019,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 98.16,
+  "PROMEDIO_DE_NOTAS" : 6.04,
+  "MEDIANA_DE_NOTAS" : 6.1
+}, {
+  "AÑO" : 2019,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 1.84,
+  "PROMEDIO_DE_NOTAS" : 4.33,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2020,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 98.96,
+  "PROMEDIO_DE_NOTAS" : 6.13,
+  "MEDIANA_DE_NOTAS" : 6.3
+}, {
+  "AÑO" : 2020,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 1.04,
+  "PROMEDIO_DE_NOTAS" : 2.89,
+  "MEDIANA_DE_NOTAS" : 2.9
+}, {
+  "AÑO" : 2020,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 99.3,
+  "PROMEDIO_DE_NOTAS" : 6.23,
+  "MEDIANA_DE_NOTAS" : 6.4
+}, {
+  "AÑO" : 2020,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 0.7,
+  "PROMEDIO_DE_NOTAS" : 2.86,
+  "MEDIANA_DE_NOTAS" : 2.9
+}, {
+  "AÑO" : 2021,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 97.87,
+  "PROMEDIO_DE_NOTAS" : 6.1,
+  "MEDIANA_DE_NOTAS" : 6.2
+}, {
+  "AÑO" : 2021,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 2.13,
+  "PROMEDIO_DE_NOTAS" : 3.53,
+  "MEDIANA_DE_NOTAS" : 3.7
+}, {
+  "AÑO" : 2021,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 98.44,
+  "PROMEDIO_DE_NOTAS" : 6.2,
+  "MEDIANA_DE_NOTAS" : 6.3
+}, {
+  "AÑO" : 2021,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 1.56,
+  "PROMEDIO_DE_NOTAS" : 3.64,
+  "MEDIANA_DE_NOTAS" : 3.8
+}, {
+  "AÑO" : 2022,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 98.03,
+  "PROMEDIO_DE_NOTAS" : 6.08,
+  "MEDIANA_DE_NOTAS" : 6.1
+}, {
+  "AÑO" : 2022,
+  "SEXO" : "Hombre",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 1.97,
+  "PROMEDIO_DE_NOTAS" : 4.11,
+  "MEDIANA_DE_NOTAS" : 4.3
+}, {
+  "AÑO" : 2022,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PORCENTAJE" : 98.82,
+  "PROMEDIO_DE_NOTAS" : 6.21,
+  "MEDIANA_DE_NOTAS" : 6.3
+}, {
+  "AÑO" : 2022,
+  "SEXO" : "Mujer",
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PORCENTAJE" : 1.18,
+  "PROMEDIO_DE_NOTAS" : 4.16,
+  "MEDIANA_DE_NOTAS" : 4.4
+} ]
