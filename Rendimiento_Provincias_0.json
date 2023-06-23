@@ -1,0 +1,379 @@
+[ {
+  "AÑO" : 2014,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 94.6,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.8,
+  "MEDIANA_DE_NOTAS" : 5.8
+}, {
+  "AÑO" : 2014,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 5.4,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2014,
+  "PROVINCIA" : "BIOBÍO",
+  "PORCENTAJE" : 95.6,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.8,
+  "MEDIANA_DE_NOTAS" : 5.8
+}, {
+  "AÑO" : 2014,
+  "PROVINCIA" : "BIOBÍO",
+  "PORCENTAJE" : 4.4,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2014,
+  "PROVINCIA" : "CONCEPCIÓN",
+  "PORCENTAJE" : 95.3,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.8,
+  "MEDIANA_DE_NOTAS" : 5.8
+}, {
+  "AÑO" : 2014,
+  "PROVINCIA" : "CONCEPCIÓN",
+  "PORCENTAJE" : 4.7,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2015,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 95.1,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.8,
+  "MEDIANA_DE_NOTAS" : 5.8
+}, {
+  "AÑO" : 2015,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 4.9,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2015,
+  "PROVINCIA" : "BIOBIO",
+  "PORCENTAJE" : 95.4,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.8,
+  "MEDIANA_DE_NOTAS" : 5.8
+}, {
+  "AÑO" : 2015,
+  "PROVINCIA" : "BIOBIO",
+  "PORCENTAJE" : 4.6,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.4,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2015,
+  "PROVINCIA" : "CONCEPCION",
+  "PORCENTAJE" : 95.5,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.8,
+  "MEDIANA_DE_NOTAS" : 5.8
+}, {
+  "AÑO" : 2015,
+  "PROVINCIA" : "CONCEPCION",
+  "PORCENTAJE" : 4.5,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2016,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 95.1,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.8,
+  "MEDIANA_DE_NOTAS" : 5.9
+}, {
+  "AÑO" : 2016,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 4.9,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.2,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2016,
+  "PROVINCIA" : "BIOBIO",
+  "PORCENTAJE" : 96.0,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.8,
+  "MEDIANA_DE_NOTAS" : 5.8
+}, {
+  "AÑO" : 2016,
+  "PROVINCIA" : "BIOBIO",
+  "PORCENTAJE" : 4.0,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2016,
+  "PROVINCIA" : "CONCEPCION",
+  "PORCENTAJE" : 96.0,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.9,
+  "MEDIANA_DE_NOTAS" : 5.9
+}, {
+  "AÑO" : 2016,
+  "PROVINCIA" : "CONCEPCION",
+  "PORCENTAJE" : 4.0,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2017,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 96.4,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.9,
+  "MEDIANA_DE_NOTAS" : 5.9
+}, {
+  "AÑO" : 2017,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 3.6,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2017,
+  "PROVINCIA" : "BIOBIO",
+  "PORCENTAJE" : 96.6,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.9,
+  "MEDIANA_DE_NOTAS" : 5.9
+}, {
+  "AÑO" : 2017,
+  "PROVINCIA" : "BIOBIO",
+  "PORCENTAJE" : 3.4,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2017,
+  "PROVINCIA" : "CONCEPCION",
+  "PORCENTAJE" : 96.4,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.9,
+  "MEDIANA_DE_NOTAS" : 5.9
+}, {
+  "AÑO" : 2017,
+  "PROVINCIA" : "CONCEPCION",
+  "PORCENTAJE" : 3.6,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2018,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 96.6,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.9,
+  "MEDIANA_DE_NOTAS" : 5.9
+}, {
+  "AÑO" : 2018,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 3.4,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2018,
+  "PROVINCIA" : "BIOBÍO",
+  "PORCENTAJE" : 96.8,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.9,
+  "MEDIANA_DE_NOTAS" : 5.9
+}, {
+  "AÑO" : 2018,
+  "PROVINCIA" : "BIOBÍO",
+  "PORCENTAJE" : 3.2,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2018,
+  "PROVINCIA" : "CONCEPCIÓN",
+  "PORCENTAJE" : 96.7,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.9,
+  "MEDIANA_DE_NOTAS" : 6.0
+}, {
+  "AÑO" : 2018,
+  "PROVINCIA" : "CONCEPCIÓN",
+  "PORCENTAJE" : 3.3,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2019,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 97.7,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.9,
+  "MEDIANA_DE_NOTAS" : 6.0
+}, {
+  "AÑO" : 2019,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 2.3,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.2,
+  "MEDIANA_DE_NOTAS" : 4.4
+}, {
+  "AÑO" : 2019,
+  "PROVINCIA" : "BIOBÍO",
+  "PORCENTAJE" : 97.4,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 5.9,
+  "MEDIANA_DE_NOTAS" : 5.9
+}, {
+  "AÑO" : 2019,
+  "PROVINCIA" : "BIOBÍO",
+  "PORCENTAJE" : 2.6,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2019,
+  "PROVINCIA" : "CONCEPCIÓN",
+  "PORCENTAJE" : 97.7,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 6.0,
+  "MEDIANA_DE_NOTAS" : 6.0
+}, {
+  "AÑO" : 2019,
+  "PROVINCIA" : "CONCEPCIÓN",
+  "PORCENTAJE" : 2.3,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.3,
+  "MEDIANA_DE_NOTAS" : 4.5
+}, {
+  "AÑO" : 2020,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 98.9,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 6.1,
+  "MEDIANA_DE_NOTAS" : 6.3
+}, {
+  "AÑO" : 2020,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 1.1,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 2.9,
+  "MEDIANA_DE_NOTAS" : 2.9
+}, {
+  "AÑO" : 2020,
+  "PROVINCIA" : "BIOBÍO",
+  "PORCENTAJE" : 99.3,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 6.1,
+  "MEDIANA_DE_NOTAS" : 6.2
+}, {
+  "AÑO" : 2020,
+  "PROVINCIA" : "BIOBÍO",
+  "PORCENTAJE" : 0.7,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 2.8,
+  "MEDIANA_DE_NOTAS" : 2.7
+}, {
+  "AÑO" : 2020,
+  "PROVINCIA" : "CONCEPCIÓN",
+  "PORCENTAJE" : 99.1,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 6.2,
+  "MEDIANA_DE_NOTAS" : 6.4
+}, {
+  "AÑO" : 2020,
+  "PROVINCIA" : "CONCEPCIÓN",
+  "PORCENTAJE" : 0.9,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 2.9,
+  "MEDIANA_DE_NOTAS" : 3.0
+}, {
+  "AÑO" : 2021,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 97.0,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 6.1,
+  "MEDIANA_DE_NOTAS" : 6.3
+}, {
+  "AÑO" : 2021,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 3.0,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 3.5,
+  "MEDIANA_DE_NOTAS" : 3.7
+}, {
+  "AÑO" : 2021,
+  "PROVINCIA" : "BIOBÍO",
+  "PORCENTAJE" : 98.8,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 6.1,
+  "MEDIANA_DE_NOTAS" : 6.2
+}, {
+  "AÑO" : 2021,
+  "PROVINCIA" : "BIOBÍO",
+  "PORCENTAJE" : 1.2,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 3.5,
+  "MEDIANA_DE_NOTAS" : 3.7
+}, {
+  "AÑO" : 2021,
+  "PROVINCIA" : "CONCEPCIÓN",
+  "PORCENTAJE" : 98.1,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 6.2,
+  "MEDIANA_DE_NOTAS" : 6.3
+}, {
+  "AÑO" : 2021,
+  "PROVINCIA" : "CONCEPCIÓN",
+  "PORCENTAJE" : 1.9,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 3.6,
+  "MEDIANA_DE_NOTAS" : 3.7
+}, {
+  "AÑO" : 2022,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 97.8,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 6.1,
+  "MEDIANA_DE_NOTAS" : 6.2
+}, {
+  "AÑO" : 2022,
+  "PROVINCIA" : "ARAUCO",
+  "PORCENTAJE" : 2.2,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.1,
+  "MEDIANA_DE_NOTAS" : 4.3
+}, {
+  "AÑO" : 2022,
+  "PROVINCIA" : "BIOBÍO",
+  "PORCENTAJE" : 98.8,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 6.1,
+  "MEDIANA_DE_NOTAS" : 6.2
+}, {
+  "AÑO" : 2022,
+  "PROVINCIA" : "BIOBÍO",
+  "PORCENTAJE" : 1.2,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.2,
+  "MEDIANA_DE_NOTAS" : 4.3
+}, {
+  "AÑO" : 2022,
+  "PROVINCIA" : "CONCEPCIÓN",
+  "PORCENTAJE" : 98.4,
+  "SITUACIÓN_FIN_DE_AÑO" : "Promovido",
+  "PROMEDIO_DE_NOTAS" : 6.2,
+  "MEDIANA_DE_NOTAS" : 6.2
+}, {
+  "AÑO" : 2022,
+  "PROVINCIA" : "CONCEPCIÓN",
+  "PORCENTAJE" : 1.6,
+  "SITUACIÓN_FIN_DE_AÑO" : "Reprobado",
+  "PROMEDIO_DE_NOTAS" : 4.1,
+  "MEDIANA_DE_NOTAS" : 4.4
+} ]
