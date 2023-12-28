@@ -1,0 +1,65 @@
+[ {
+  "Año" : 2015,
+  "Edad" : "14-15",
+  "Infractores" : 1206
+}, {
+  "Año" : 2015,
+  "Edad" : "16-17",
+  "Infractores" : 3066
+}, {
+  "Año" : 2016,
+  "Edad" : "14-15",
+  "Infractores" : 1233
+}, {
+  "Año" : 2016,
+  "Edad" : "16-17",
+  "Infractores" : 2850
+}, {
+  "Año" : 2017,
+  "Edad" : "14-15",
+  "Infractores" : 1101
+}, {
+  "Año" : 2017,
+  "Edad" : "16-17",
+  "Infractores" : 2510
+}, {
+  "Año" : 2018,
+  "Edad" : "14-15",
+  "Infractores" : 895
+}, {
+  "Año" : 2018,
+  "Edad" : "16-17",
+  "Infractores" : 2056
+}, {
+  "Año" : 2019,
+  "Edad" : "14-15",
+  "Infractores" : 848
+}, {
+  "Año" : 2019,
+  "Edad" : "16-17",
+  "Infractores" : 2147
+}, {
+  "Año" : 2020,
+  "Edad" : "14-15",
+  "Infractores" : 520
+}, {
+  "Año" : 2020,
+  "Edad" : "16-17",
+  "Infractores" : 1501
+}, {
+  "Año" : 2021,
+  "Edad" : "14-15",
+  "Infractores" : 493
+}, {
+  "Año" : 2021,
+  "Edad" : "16-17",
+  "Infractores" : 1273
+}, {
+  "Año" : 2022,
+  "Edad" : "14-15",
+  "Infractores" : 1126
+}, {
+  "Año" : 2022,
+  "Edad" : "16-17",
+  "Infractores" : 1761
+} ]

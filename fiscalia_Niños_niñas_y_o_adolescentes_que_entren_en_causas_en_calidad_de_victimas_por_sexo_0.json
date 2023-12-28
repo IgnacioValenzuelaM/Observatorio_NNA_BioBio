@@ -1,0 +1,81 @@
+[ {
+  "Año" : 2015,
+  "Sexo" : "Mujer",
+  "Casos" : 6101,
+  "Porcentaje" : 5.2
+}, {
+  "Año" : 2015,
+  "Sexo" : "Hombre",
+  "Casos" : 4098,
+  "Porcentaje" : 3.5
+}, {
+  "Año" : 2016,
+  "Sexo" : "Mujer",
+  "Casos" : 6921,
+  "Porcentaje" : 6.0
+}, {
+  "Año" : 2016,
+  "Sexo" : "Hombre",
+  "Casos" : 4154,
+  "Porcentaje" : 3.6
+}, {
+  "Año" : 2017,
+  "Sexo" : "Mujer",
+  "Casos" : 6653,
+  "Porcentaje" : 5.9
+}, {
+  "Año" : 2017,
+  "Sexo" : "Hombre",
+  "Casos" : 4161,
+  "Porcentaje" : 3.7
+}, {
+  "Año" : 2018,
+  "Sexo" : "Mujer",
+  "Casos" : 5558,
+  "Porcentaje" : 6.2
+}, {
+  "Año" : 2018,
+  "Sexo" : "Hombre",
+  "Casos" : 3598,
+  "Porcentaje" : 4.0
+}, {
+  "Año" : 2019,
+  "Sexo" : "Mujer",
+  "Casos" : 6136,
+  "Porcentaje" : 6.2
+}, {
+  "Año" : 2019,
+  "Sexo" : "Hombre",
+  "Casos" : 3992,
+  "Porcentaje" : 4.1
+}, {
+  "Año" : 2020,
+  "Sexo" : "Mujer",
+  "Casos" : 4555,
+  "Porcentaje" : 5.7
+}, {
+  "Año" : 2020,
+  "Sexo" : "Hombre",
+  "Casos" : 3051,
+  "Porcentaje" : 3.8
+}, {
+  "Año" : 2021,
+  "Sexo" : "Mujer",
+  "Casos" : 5388,
+  "Porcentaje" : 6.5
+}, {
+  "Año" : 2021,
+  "Sexo" : "Hombre",
+  "Casos" : 3596,
+  "Porcentaje" : 4.3
+}, {
+  "Año" : 2022,
+  "Sexo" : "Mujer",
+  "Casos" : 8600,
+  "Porcentaje" : 8.2
+}, {
+  "Año" : 2022,
+  "Sexo" : "Hombre",
+  "Casos" : 5425,
+  "Porcentaje" : 5.1
+} ]

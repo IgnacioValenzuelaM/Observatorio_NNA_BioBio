@@ -1,0 +1,33 @@
+[ {
+  "Año" : 2015,
+  "Ingresos de delitos" : 4341,
+  "Términos de delitos" : 5394
+}, {
+  "Año" : 2016,
+  "Ingresos de delitos" : 4036,
+  "Términos de delitos" : 4890
+}, {
+  "Año" : 2017,
+  "Ingresos de delitos" : 3864,
+  "Términos de delitos" : 4225
+}, {
+  "Año" : 2018,
+  "Ingresos de delitos" : 3129,
+  "Términos de delitos" : 3311
+}, {
+  "Año" : 2019,
+  "Ingresos de delitos" : 3098,
+  "Términos de delitos" : 3338
+}, {
+  "Año" : 2020,
+  "Ingresos de delitos" : 2277,
+  "Términos de delitos" : 2261
+}, {
+  "Año" : 2021,
+  "Ingresos de delitos" : 1984,
+  "Términos de delitos" : 2531
+}, {
+  "Año" : 2022,
+  "Ingresos de delitos" : 2904,
+  "Términos de delitos" : 3008
+} ]

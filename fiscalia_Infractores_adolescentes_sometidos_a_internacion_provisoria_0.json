@@ -1,0 +1,33 @@
+[ {
+  "Año" : 2015,
+  "Infractores" : 118,
+  "Porcentaje" : 6.88
+}, {
+  "Año" : 2016,
+  "Infractores" : 126,
+  "Porcentaje" : 7.93
+}, {
+  "Año" : 2017,
+  "Infractores" : 119,
+  "Porcentaje" : 8.26
+}, {
+  "Año" : 2018,
+  "Infractores" : 100,
+  "Porcentaje" : 7.1
+}, {
+  "Año" : 2019,
+  "Infractores" : 64,
+  "Porcentaje" : 5.36
+}, {
+  "Año" : 2020,
+  "Infractores" : 37,
+  "Porcentaje" : 5.07
+}, {
+  "Año" : 2021,
+  "Infractores" : 33,
+  "Porcentaje" : 5.78
+}, {
+  "Año" : 2022,
+  "Infractores" : 42,
+  "Porcentaje" : 4.52
+} ]
